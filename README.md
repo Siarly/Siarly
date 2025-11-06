@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siarly
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, html and css
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can translate several old languages
 
